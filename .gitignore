@@ -1,0 +1,8 @@
+bin/
+bin-debug/
+bin-release/
+.DS_Store
+node_modules
+.settings/
+.idea
+*.jar
