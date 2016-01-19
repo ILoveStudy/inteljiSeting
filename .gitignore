@@ -5,4 +5,4 @@ bin-release/
 node_modules
 .settings/
 .idea
-*.jar
+
